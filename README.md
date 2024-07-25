@@ -1,7 +1,5 @@
 # Website Basics with HTML, CSS and JS
 
-[Link to recording for workshop on May the 3rd, 2024.](https://northwestern.zoom.us/rec/share/2YWtca043rlyHOqV6OUgUONRnXTWB1El4Elya56cHFjnw0L1iaszYaB9su7Aheip.dgNRNia8uhCW-3j_)
-
 If you want to make your own website, scrape websites, develop interactive online visualizations, and/or create any web-based application, you need to know the basics of building a website. This workshop covers the essential ingredients of the web : HTML, CSS and Javascript. You will learn how, why and where to use each of these tools and how they work together.  We will also work through and edit example websites on CodePen.  This is a beginner workshop with no prerequisites.
 
 I have also hosted a set of example websites on CodePen that we will work through together during the workshop.  (These are also available in this repo in the examples/ directory, but for beginners, I recommend using CodePen).
